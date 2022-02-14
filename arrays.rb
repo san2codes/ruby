@@ -1,4 +1,4 @@
-a = [1,2,4,3,5,2,6,7,7]
+a = [1,2,4,3,5,2,6,7,7,8]
 
 puts a.last
 
@@ -15,4 +15,3 @@ puts a.pop
 puts a.join 
 puts a.join("-")
 puts a.select {|n| n.odd? }
-
