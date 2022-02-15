@@ -1,2 +1,2 @@
 puts "hello world"
-puts "Hi..."
+puts "Hi"
