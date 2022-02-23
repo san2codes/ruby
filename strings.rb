@@ -1,8 +1,8 @@
 a = [1,2,3,4]
 b =  [2,3,4,4,5,2,5]
-#puts (a & b) 
-#puts (a | b)
-#puts(b.uniq)
+puts (a & b) 
+puts (a | b)
+puts(b.uniq)
 
 str = "welcome"
 puts str.include? "come"
